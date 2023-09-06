@@ -1,4 +1,4 @@
-package Git_package;
+package student_package;
 class ArthimeticOperation{
 	public int add(int a,int b){
 		System.out.println("addition");
